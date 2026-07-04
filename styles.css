@@ -72,7 +72,7 @@
 body{
     max-width: 400px;
     margin: auto;
-    background-color: rgb(31, 70, 226);
+    background-color: #3b82f6;
     background-image: url("fondomundial.png");
     background-repeat: repeat-y;
     background-position: top;
